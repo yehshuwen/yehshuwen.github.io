@@ -86,7 +86,7 @@ export default function Home() {
                 label="GitHub"
               />
               <IconLink 
-                href="/resume_CV20260119.pdf" 
+                href="/resume.pdf" 
                 icon={Icons.Resume} 
                 label="Resume"
               />
